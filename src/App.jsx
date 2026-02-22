@@ -29,14 +29,16 @@ export default function App() {
 
     </div>
       <Navbar />
-      <Hero />
-      <Services />
-      <WhyChoose />
-      <Pricing />
-      <Process />
-      <CaseStudies />
-      <CTA />
-      <Contact />
+      <main>
+        <Hero />
+        <Services />
+        <WhyChoose />
+        <Pricing />
+        <Process />
+        <CaseStudies />
+        <CTA />
+        <Contact />
+      </main>
       <Footer />
     </motion.div>
   );
