@@ -1,14 +1,14 @@
-# ByteBridges — High-Performance Digital Solutions
+# BinaryBase — High-Performance Digital Solutions
 
-ByteBridges is a modern, performance-focused digital solutions platform built to help businesses design, develop, and scale high-quality web applications and intelligent systems.
+BinaryBase is a modern, performance-focused digital solutions platform built to help businesses design, develop, and scale high-quality web applications and intelligent systems.
 
-This website represents the official service portfolio of ByteBridges.
+This website represents the official service portfolio of BinaryBase.
 
 ---
 
-## 🚀 About ByteBridges
+## 🚀 About BinaryBase
 
-ByteBridges specializes in:
+BinaryBase specializes in:
 
 - High-performance web applications
 - Scalable system architecture
@@ -49,8 +49,8 @@ The focus is not just development — but building reliable, scalable, and busin
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bytebridges-website.git
-cd bytebridges-website 
+git clone https://github.com/YOUR_USERNAME/binarybase-website.git
+cd binarybase-website 
 ```
 
 Install dependencies:
@@ -105,7 +105,7 @@ Deploy
 
 📈 Vision
 
-ByteBridges aims to bridge business vision and technical execution through:
+BinaryBase aims to bridge business vision and technical execution through:
 
 Performance-first engineering
 
@@ -123,7 +123,7 @@ LinkedIn: www.linkedin.com/in/sarveshkrishnaak
 
 GitHub: https://github.com/SarveshKrishnaAK
 
-© 2026 ByteBridges. All rights reserved.
+© 2026 BinaryBase. All rights reserved.
 
 ```bash
 ---
@@ -133,7 +133,7 @@ GitHub: https://github.com/SarveshKrishnaAK
 Replace:
 
 ```md
-https://github.com/YOUR_USERNAME/bytebridges-website.git
+https://github.com/YOUR_USERNAME/binarybase-website.git
 ```
 
 with your actual GitHub repo link.
