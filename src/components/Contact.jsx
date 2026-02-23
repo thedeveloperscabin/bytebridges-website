@@ -98,7 +98,7 @@ export default function Contact() {
             type="submit"
             className="px-6 py-3 rounded-full bg-black text-white dark:bg-white dark:text-black transition hover:scale-105"
           >
-            Push Message
+            Push to BinaryBase
           </button>
 
           {status.message && (

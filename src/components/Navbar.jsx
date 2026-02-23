@@ -28,12 +28,20 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-6 flex justify-between items-center">
 
         {/* Logo */}
-        <a href="#" className="flex items-center gap-2 hover:scale-105 transition duration-300">
-          <img src="/favicon.svg" alt="ByteBridges Logo" className="w-7 h-7" />
-          <span className="text-xl font-bold tracking-wide">
-            <span className="text-black dark:text-white">Byte</span>
-            <span className="text-indigo-600 dark:text-indigo-400">
-              Bridges
+        <a
+          href="#"
+          className="flex items-center gap-2 hover:scale-105 transition duration-300 group"
+        >
+          <img
+            src="/favicon.svg"
+            alt="BinaryBase Logo"
+            className="w-7 h-7 transition-transform duration-300 group-hover:rotate-6"
+          />
+
+          <span className="text-xl font-semibold tracking-tight">
+            <span className="text-black dark:text-white">Binary</span>
+            <span className="text-indigo-600 dark:text-indigo-400 ml-1">
+              Base
             </span>
           </span>
         </a>

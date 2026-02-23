@@ -25,9 +25,9 @@ export default function Logo() {
       </svg>
 
       <span className="text-xl font-bold tracking-wide">
-        <span className="text-black dark:text-white">Byte</span>
+        <span className="text-black dark:text-white">Binary</span>
         <span className="text-indigo-600 dark:text-indigo-400">
-          Bridges
+          Base
         </span>
       </span>
     </div>
